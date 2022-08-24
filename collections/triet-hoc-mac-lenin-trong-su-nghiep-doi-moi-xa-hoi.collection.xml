@@ -1,3 +1,29 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Course">  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">  <md:content-id>col10849</md:content-id>  <md:title>Triết học Mác - Lênin trong sự nghiệp đổi mới xã hội</md:title>      <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>  <md:language>vi</md:language>              <md:uuid>293d9a34-27dd-4e4a-8b1f-40f5e72b5f6e</md:uuid>
-<md:slug>triet-hoc-mac-lenin-trong-su-nghiep-doi-moi-xa-hoi</md:slug>
-</metadata>  <col:content>                        <col:subcollection>        <md:title>phần 1:Đối tượng và nhiệm vụ</md:title>                                <col:content>                    <col:module document="m29951"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Phần2:Quan điểm của Mac - Lênin trong giải quyết vấn đề tôn giáo  </md:title>                                <col:content>                    <col:module document="m27718"/>                            <col:module document="m28095"/>                            <col:module document="m28085"/>                            <col:module document="m27605"/>                            <col:module document="m27984"/>                          </col:content>      </col:subcollection>      </col:content></col:collection>
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Course" authors="Nguyen Quang Cuong">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col10849</md:content-id>
+    <md:title>Tri&#x1EBF;t h&#x1ECD;c M&#xE1;c - L&#xEA;nin trong s&#x1EF1; nghi&#x1EC7;p &#x111;&#x1ED5;i m&#x1EDB;i x&#xE3; h&#x1ED9;i</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+    <md:language>vi</md:language>
+    <md:uuid>293d9a34-27dd-4e4a-8b1f-40f5e72b5f6e</md:uuid>
+    <md:slug>triet-hoc-mac-lenin-trong-su-nghiep-doi-moi-xa-hoi</md:slug>
+  </metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>ph&#x1EA7;n 1:&#x110;&#x1ED1;i t&#x1B0;&#x1EE3;ng v&#xE0; nhi&#x1EC7;m v&#x1EE5;</md:title>
+      <col:content>
+        <col:module document="m29951"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Ph&#x1EA7;n2:Quan &#x111;i&#x1EC3;m c&#x1EE7;a Mac - L&#xEA;nin trong gi&#x1EA3;i quy&#x1EBF;t v&#x1EA5;n &#x111;&#x1EC1; t&#xF4;n gi&#xE1;o  </md:title>
+      <col:content>
+        <col:module document="m27718"/>
+        <col:module document="m28095"/>
+        <col:module document="m28085"/>
+        <col:module document="m27605"/>
+        <col:module document="m27984"/>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>
